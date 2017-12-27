@@ -1,4 +1,5 @@
 ---
+category: aow
 tag: aow
-permalink: /aow/
+permalink: /category/aow/
 ---

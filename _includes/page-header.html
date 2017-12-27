@@ -1,5 +1,9 @@
 <section class="page-header">
   <h1 class="project-name">{{ site.title }}</h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
-  <h3 class="project-tagline"><a href="/aow/">AoW</a></h3>
+  <div class="navbar">
+      {% for category in site.categories %}
+        <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{% if category[0] == 'aow' %}{{ category[0] | upcase}}{% else %}{{ category[0] | capitalize }}{% endif %}</a>
+      {% endfor %}
+  </div>
 </section>

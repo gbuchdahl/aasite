@@ -6,7 +6,7 @@ paginate:     1
 locale:       "en"
 
 # About/contact
-author:
+author:       Gabriel Buchdahl
   name:       Gabriel Buchdahl
   url:        hunterschools.org
 

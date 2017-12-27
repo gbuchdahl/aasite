@@ -2,6 +2,6 @@
   <h1 class="project-name"><a class="whitelink" href="{{ site.url }}">{{ site.title }}</a></h1>
   <h2 class="project-tagline">{{ site.tagline }}</h2>
     {% for category in site.categories %}
-      <a class="whitelink" href="/category/{{ category[0] }}/" style="text-decoration: none;">{% if category[0] == 'aow' %}{{ category[0] | upcase}}{% else %}{{ category[0] | upcase }}{% endif %}</a>
+      <a class="whitelink" href="/category/{{ category[0] }}/" style="text-decoration: none;"> {% if category[0] == 'aow' %}{{ category[0] | upcase}}{% else %}{{ category[0] | upcase }}{% endif %}<br> </a>
     {% endfor %}
 </section>

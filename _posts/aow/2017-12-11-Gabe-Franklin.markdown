@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Gabe Franklin AoW"
+layout: aow
+title:  "Gabe Franklin"
 date:   2017-12-11 17:50:00
 categories: aow
 author: Gabriel Buchdahl

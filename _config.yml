@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Gabriel Buchdahl
-  url:        hunterschools.org
+  url:        http://www.hunterschools.org
 
 # Gems
 gems:

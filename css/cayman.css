@@ -191,5 +191,10 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.navbar > a, a:hover, a:active, a:visited { color: white; }
-.navbar > a:hover {opacity: .75;}
+a.whitelink{
+   color: white;
+}
+
+a.whitelink:hover {
+  opacity: .75;
+}

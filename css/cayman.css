@@ -191,23 +191,10 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-a.whitelink{
-   color: white;
-}
-
-a.whitelink:hover {
-  opacity: .75;
-}
-
-#home a{
-  color: purple;
-}
-
 #home {
-  text-align: center;
+    text-align: center;
 }
 
-.right{
-  position: absolute;
-  right: 25px;
-}
+
+
+

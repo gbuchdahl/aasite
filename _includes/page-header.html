@@ -1,30 +1,18 @@
 <section class="page-header">
     
-<nav class="navbar navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="{{ site.url }}">Hunter Athletics</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+    <nav class="navbar navbar-expand-md navbar-light">
+        <div class="container-fluid">
+            <a class="navbar-brand font-weight-bold text-warning mr-4 mr-4" href="{{ site.url }}">Hunter Athletics</a>
+            <ul class="nav navbar-nav navbar-right">
+              <li class="nav-item active">
+                <a class="nav-link text-warning ml-3" href="{{site.url}}/category/aow">Athletes of the Week<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item active">
+                  <a class="nav-link text-warning ml-3" href="{{site.url}}/category/sp">Senior Profiles<span class="sr-only">(current)</span></a>
+              </li>
+            </ul>
+        </div>
+    </nav>
 
-  <div class="collapse navbar-collapse" id="navbarSupportedContent">
-    <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
-        <a class="nav-link" href="{{site.url}}/category/aow">Athletes of the Week<span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="{{site.url}}/category/sp">Senior Profiles<span class="sr-only">(current)</span></a>
-      </li>
-    </ul>
-  </div>
-</nav>    
     
-    
-    
-    
-
-  <h1 class="project-name"><a class="whitelink" href="{{ site.url }}">{{ site.title }}</a></h1>
-  <h2 class="project-tagline">{{ site.tagline }}</h2>
-    {% for category in site.categories %}
-      <a class="whitelink" href="/category/{{ category[0] }}/" style="text-decoration: none;"> {% if category[0] == 'aow' %}{{ category[0] | upcase}}{% else %}{{ category[0] | upcase }}{% endif %}<br> </a>
-    {% endfor %}
 </section>

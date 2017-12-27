@@ -198,3 +198,11 @@ a.whitelink{
 a.whitelink:hover {
   opacity: .75;
 }
+
+#home a{
+  color: purple;
+}
+
+#home {
+  text-align: center;
+}

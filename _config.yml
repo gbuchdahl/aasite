@@ -16,6 +16,13 @@ gems:
 
 #Others
 markdown: kramdown
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+        
+exclude: []
+
 
 #categories
 collections:

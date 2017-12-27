@@ -1,0 +1,10 @@
+---
+layout: aow
+categories: aow
+author: Luca Wernick
+title: Eric Zhou
+date: 2017-10-16 17:00:00
+---
+<img src="{{ "/assets/img/erzh.png" | absolute_url }}" class="rounded float-right ml-3" alt="Eric Zhou">
+
+The Junior-Senior Football Game was dominated by the stingy and hard-nose 2019 defense. The anticipated and hyped “senior sweep” was spoiled in a tight and low-scoring game (7-0), in which the junior boys came away with the win due to the MVP performance of Eric Zhou. The energy, heart, and leader of the defense came away with 3 interceptions and played all over the field. His presence helped force a shutout, in a game many may be talking about for a while. Living by his famous motto: “we gon be aii” the junior boys were in fact, alright. After asked about his performance, Zhou said his play was modelled after his favorite NFL safety: Tyrann Mathieu (The Honey Badger). He sure did play like him and earned a well deserved nod for it.

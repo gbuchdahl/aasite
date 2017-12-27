@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Alex Fox AoW"
+date:   2017-12-17 18:50:44 -0500
+---
+## Alex Fox AoW
+
+This is what peak performance looks like. Senior Alex Fox was the embodiment of wrestling perfection this week. He had 6 matches and had 6 wins, 4 of which were pins. Fox started off his week with Hunter’s dual meet at Dewitt Clinton High School, where the Hawks were able to grab their first win of the season. Unlike many of their other meets, Hunter was matched up against an equally small team, meaning they would not automatically lose on weight class forfeits. There were 4 matches so the Hawks would need to win 3 out of 4 in order win the meet. After a win by freshman Daniel Krop-Siegmund, a win from Fox would clinch at least a tie. Fox made light work of his opponent, pinning him early in the first period in order to set up his co-captain Nicolai Celestain to secure the win in his match. Fox’s perfect week continued at KIPP thursday. Although he didn’t get the pin, he outscored his opponent by 8 points by the end of the third period, clinching his second win of the week. Fox then travelled back to the Bronx this Saturday for the KIPP Winter Classic, where he was unstoppable on his way to a 1st place finish in the 113 pound weight class.

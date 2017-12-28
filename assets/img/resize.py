@@ -3,7 +3,7 @@ import sys
 
 location = str(sys.argv[1])
 
-basewidth = 300
+basewidth = 320
 img = Image.open(location)
 wpercent = (basewidth/float(img.size[0]))
 hsize = int((float(img.size[1])*float(wpercent)))

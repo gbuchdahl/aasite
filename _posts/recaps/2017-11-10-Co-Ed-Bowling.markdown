@@ -1,0 +1,9 @@
+---
+author: Sam Brill
+layout: recap
+category: recap
+date: 2017-11-10 17:00:00
+title: Co-Ed Bowling
+---
+
+Another stupendous season of Co-Ed Varsity bowling will go down in the record books for Hunter. The team was undefeated (12-0) in their division yet again easily taking another Manhattan III division championship. The team was able to place into the main draw this year placing 20th out of 40 teams making the playoffs. However, they took a crushing defeat against New Utrecht (13). This game marked the final bowling meet from their seniors Justin Chang, Matthew Friedman, Jacob Rosenberg, Luca Washenko, David Kao, and Nathan Wong. The team was fiercely led by these seniors as Justin Chang, Luca Washenko, and Jacob Rosenberg accounted for the team’s highest in game averages while placing on the A team. Chang fell just short of his goal of a 200, yet posted the highest score on the team with an outstanding 195. Matthew Friedman was a force to be reckoned with on the B team while placing 5th on the team in average. Kao and Wong continued to hone their craft while mostly bowling in C games this season. The team was pleasantly surprised by Juniors Imanol Uribe and Christopher Aiello as they were consistently posting high scores on the B team. Sam Brill continued his dominance from below consistently playing on the A team as well. Other excellent contributors included Grayson Ruhl (10) and Rain Liu (11). The future looks bright for hunter bowling despite the departure of many seniors. Freshman Alex Harris, posted consistently high scores and started on the B team in their playoff meet. In addition to him, the team also began the development of already strong Freshmen Michelle Kwong and Rebecca Friedman. The team ramped up their success drastically as they had two players posting an average over 150 pins. Unfortunately these two Seniors (Justin Chang and Luca Washenko) will depart from the team, but they leave it on a very high note.

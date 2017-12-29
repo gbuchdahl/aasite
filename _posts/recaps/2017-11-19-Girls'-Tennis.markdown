@@ -1,0 +1,9 @@
+---
+title: Girls' Tennis
+author: Gabriel Buchdahl
+date: 2017-11-19 17:00:00
+categories: recap
+layout: recap
+---
+
+Girls’ Varsity Tennis finished up yet another successful season in the wildly challenging Manhattan/Bronx A division. Despite competing regularly against three of the best four teams in the city, the Hawks managed to put together a deep playoff run complete with an upset victory over Leon Goldstein HS. The team was led by senior captains and doubles players Sophie Edelman and Clara Lee, as well as the experienced coaching of Veronika Barczyk. However, they have a lot to look forward to next year: first singles and second singles are both played by juniors, with Maria Tollock and Isabella Sifuentes playing the two positions, respectively. Sophomore Emma Diaz held down the third singles spot, boasting a .500 record in the most competitive division in the PSAL, and sophomore Octavia Beale and senior Tiffany Chen rounded out the starting roster at second doubles. All of the returning talent––including every singles player––is a great sign for seasons to come, although it will certainly be hard to cope with the loss of several important seniors. The peak of the Hawks’ season came in the playoffs. After cruising to a first round victory, the 15th seeded Hawks faced off against the 10th seeded Leon M Goldstein Dolphins. Hunter needed great play from the second half of their lineup, and the coaching staff put their trust in seniors Edelman and Lee at first doubles. In the fifth match, 1st doubles came up huge, winning 8-3 to secure the upset victory over Goldstein 3-2. Unfortunately, they fell to rival Stuyvesant in the next round, but their season will be remembered as a success, and the foundation of returning players is an exciting one to build on in the years to come.

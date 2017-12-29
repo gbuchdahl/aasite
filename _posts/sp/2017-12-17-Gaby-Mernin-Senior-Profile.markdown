@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: sp
 title:  "Gaby Mernin Senior Profile"
 date:   2017-12-12 17:50:00
 categories: sp
 ---
 
-### Girls’ Varsity Basketball
+##### Girls’ Varsity Basketball
 
 Senior Gaby Mernin is one of Hunter’s most successful athletes. Captain of both Girls’ Varsity Soccer and Basketball, Mernin has proven her amazing skills both on and off the field. Not only has she led soccer and basketball to many victories, but she provides excellent leadership to all members of the team. With her stellar moves and born leadership, Mernin is sure to make her final year at Hunter a memorable one.
 

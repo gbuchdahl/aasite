@@ -3,7 +3,7 @@ layout: default
 title: {{ site.name }}
 ---
 
-<div class="container-fluid">
+<div class="container-fluid grow">
   <div class="jumbotron">
     <div class="row">
       <div class="col-sm-7">
@@ -11,11 +11,30 @@ title: {{ site.name }}
         <h4 class="text-muted">Your home for Hunter Athletics News</h4>
       </div>
       <div class="col-sm">
-        <img src="{{ "/assets/img/HawkHead-B.png" | absolute_url }}" class="img-responsive grow" alt="Hawk Logo">
+        <img src="{{ "/assets/img/HawkHead-B.png" | absolute_url }}" class="img-responsive" alt="Hawk Logo">
       </div>
     </div>
   </div>
 </div>
+
+<div class="container-fluid mb-3">
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-header text-center"><span class="font-weight-bold">Active PSAL Sports</span></h4>
+      <div class="container-fluid text-center">
+        <div class="btn-group btn-group-sm flex-wrap">
+          <a href="http://www.psal.org/profiles/team-profile.aspx#001/02816" class="btn btn-warning">B Basketball</a>
+          <a href="http://www.psal.org/profiles/team-profile.aspx#003/02816" class="btn btn-warning">G Basketball</a>
+          <a href="http://www.psal.org/profiles/team-profile.aspx#013/02816" class="btn btn-warning">B Swim</a>
+          <a href="http://www.psal.org/profiles/team-profile.aspx#017/02816" class="btn btn-warning">B Wrestling</a>
+          <a href="http://www.psal.org/profiles/team-profile.aspx#035/02816" class="btn btn-warning">B Indoor</a>
+          <a href="http://www.psal.org/profiles/team-profile.aspx#032/02816" class="btn btn-warning">G Indoor</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <div class="row mb-3 text-center">
 

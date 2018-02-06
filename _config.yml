@@ -21,7 +21,7 @@ sass:
         - _sass
         - node_modules
 
-exclude: [vendor, app]
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
 
 
 #categories

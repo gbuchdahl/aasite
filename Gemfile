@@ -6,4 +6,6 @@ gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
 gem 'rake'
-ruby '2.3.4'
+gem 'rack-jekyll'
+
+ruby '2.4.1'

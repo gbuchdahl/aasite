@@ -21,7 +21,7 @@ sass:
         - _sass
         - node_modules
 
-exclude: [vendor]
+exclude: [vendor, app/bin]
 
 
 #categories

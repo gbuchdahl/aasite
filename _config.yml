@@ -11,7 +11,7 @@ author:
   url:        https://www.facebook.com/gbuchdahl
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
 
 #Others

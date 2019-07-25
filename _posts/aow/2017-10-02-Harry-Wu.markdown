@@ -1,0 +1,11 @@
+---
+title: Harry Wu
+date: 2017-10-02 17:00:00
+categories: aow
+layout: aow
+---
+
+<img src="{{ "/assets/img/hawu.png" | absolute_url }}" class="rounded float-right ml-3  mb-3 img-fluid img-thumbnail" alt="Harry Wu">
+
+
+It’s a little after five o’clock on Wednesday, September 27th, and Hunter’s gym is filled with the sounds of birdies sailing through the air and the squeak of sneakers on the waxy floor. It’s the Shuttlehawks’ first game of the season, against Townshend Harris, and Hunter’s athletes are holding up well, putting their hours of early-morning training to work in competition for the first time. One match in particular has drawn the attention of several spectators: senior Harry Wu is facing off against Vincent Lian, a player fellow senior and captain Brendan Shao describes as the “guy who not only taught me badminton, but is essentially nationally ranked.” Wu pulled through in a clutch three set game where the last set was 21-19, providing a crucial win for the Shuttlehawks and contributing to their overall 4-1 victory. Wu, who has been on the team since his sophomore year, has been an asset to the Shuttlehawks throughout his athletic career. He plays second singles to Shao’s first singles, and the two have truly dominated the sport; both went undefeated last year in the regular season. Although Hunter lost in the finals at last year’s city championships, with the work ethic, talent, and desire to win of Wu and his teammates, they just might bring the banner home this year. Go Hawks!

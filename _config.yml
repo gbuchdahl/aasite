@@ -1,0 +1,38 @@
+# Setup
+title:        HCHS Athletic Association
+tagline:      Your one stop shop for Hunter Athletics news
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Gabriel Buchdahl
+  url:        https://www.facebook.com/gbuchdahl
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
+
+
+#categories
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

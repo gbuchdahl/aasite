@@ -2,8 +2,13 @@
 
 Originally maintained by Gabriel Buchdahl, now deprecated.
 
-![AASite Image](/assets/img/aasite.jpg?raw=true "AA Site")
-![Sample AoW](/assets/img/sampleaow.jpg?raw=true "Sample AoW Page")
+### Sample Images
+
+<p align="center">
+  <img src="/assets/img/aasite.jpg?raw=true" width="40%" height="auto" style="padding-right: 40px;">
+  <img src="/assets/img/sampleaow.jpg?raw=true" width="45.8%" height="auto" style="padding-left: 40px;">
+</p>
+
 
 ### About
 

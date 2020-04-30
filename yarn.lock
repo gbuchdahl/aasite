@@ -7,20 +7,10 @@ bootstrap@4.0.0-beta.2:
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.0.0-beta.2.tgz#4d67d2aa2219f062cd90bc1247e6747b9e8fd051"
   integrity sha512-DzGtdTlKbrMoGMpz0LigKSqJ+MgtFKxA791PU/q062OlRG0HybNZcTLH7rpDAmLS66Y3esN9yzKHLLbqa5UR3w==
 
-bundle@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/bundle/-/bundle-2.1.0.tgz#ab47ccc48eb688f706e6ecd323d01db6854aa25e"
-  integrity sha512-d7TeT8m2HuymDjSEmMppWe/h5SSPPUZkaWKrAofx6gNXDdZ3FL/81oOTGPG+LIaZbNr9m4rtUi98Yw0Q1vHIIw==
-
-jekyll@^3.0.0-beta1:
-  version "3.0.0-beta1"
-  resolved "https://registry.yarnpkg.com/jekyll/-/jekyll-3.0.0-beta1.tgz#32749f03004cff217bf29988f6e4420606479ff9"
-  integrity sha1-MnSfAwBM/yF78pmI9uRCBgZHn/k=
-
-jquery@^3.2.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
+jquery@^3.5.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.0.tgz#9980b97d9e4194611c36530e7dc46a58d7340fc9"
+  integrity sha512-Xb7SVYMvygPxbFMpTFQiHh1J7HClEaThguL15N/Gg37Lri/qKyhRGZYzHRyLH8Stq3Aow0LsHO2O2ci86fCrNQ==
 
 popper.js@^1.12.3:
   version "1.15.0"
